@@ -1,0 +1,9 @@
+{
+	"name": "firstTestMod", 
+	"version": "0.0.1",
+	"title": "Daniel Test Mod",
+	"author": "Daniel Elliott",
+	"factorio_version": "1.0", 
+	"contact": "elliott-d987 on github", 
+	"description": "Test description"
+}
